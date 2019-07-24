@@ -1,0 +1,29 @@
+#这里是标注不推送的内容
+*.class
+#package file
+*.war
+*.ear
+#kdiff3 ignore
+*.orig
+#maven ignore
+    target/
+#eclipse ignore
+        #.settings/
+        #.project
+        #.classpath
+#idea ignore
+    #.idea/
+    #/idea/
+    #*.ipr
+    #*.iml
+    #*.iws
+#temp file
+*.log
+*.cache
+*.diff
+*.patch
+*.tmp
+out
+# system ignore
+.Ds_store
+.Thumbs.db
