@@ -7,8 +7,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a6949af-41b3-4aaa-8c64-841901ce1273" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/show_img/index.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/show_img/addCategory.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/show_img/adminFunction.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/show_img/adminLogin.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/show_img/adminOrder.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/show_img/buy.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/show_img/confirm.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/show_img/detail.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/show_img/goRegist.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/show_img/ok.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/show_img/person.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/show_img/productAdd.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/show_img/productSearch.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/show_img/updateNu.PNG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -61,12 +72,17 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="57">
-                <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+              <first_editor relative-caret-position="38">
+                <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/show_img/goRegist.PNG">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -322,12 +338,12 @@
       <updated>1563721677762</updated>
       <workItem from="1563721697632" duration="1135000" />
       <workItem from="1563898485021" duration="5028000" />
-      <workItem from="1563945414473" duration="9520000" />
+      <workItem from="1563945414473" duration="11471000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15683000" />
+    <option name="totallyTimeSpent" value="17634000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -358,7 +374,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32956153" />
       <window_info anchor="bottom" id="Application Servers" order="7" weight="0.3281471" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.33002833" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.33002833" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50067025" side_tool="true" weight="0.59688824" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.2446959" />
@@ -643,11 +659,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/show_img/goRegist.PNG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="57">
-            <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <first_editor relative-caret-position="38">
+            <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
           </first_editor>
           <second_editor />
         </state>
