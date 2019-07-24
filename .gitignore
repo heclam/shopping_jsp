@@ -8,9 +8,9 @@
 #maven ignore
     target/
 #eclipse ignore
-        #.settings/
-        #.project
-        #.classpath
+    #.settings/
+    #.project
+    #.classpath
 #idea ignore
     #.idea/
     #/idea/
